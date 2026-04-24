@@ -3,7 +3,7 @@ import google.generativeai as genai
 import os
 
 # 1. Put your API Key here directly for this test
-api_key = "AIzaSyA5rkwTIzYDwrlrReGEJ4LVRrzRmSrjCrw" 
+api_key = "AIzaSyACOVe8zz3PMHjIoLoSWP0PFGmzOvLtdhc" 
 
 genai.configure(api_key=api_key)
 
